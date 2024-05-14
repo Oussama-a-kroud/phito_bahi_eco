@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phito_bahi_eco/static/css/main.156991b1.css",
+    "main.js": "/phito_bahi_eco/static/js/main.86538038.js",
+    "static/media/dwa4.png": "/phito_bahi_eco/static/media/dwa4.12320c1c75923d4820d6.png",
+    "static/media/clothe.png": "/phito_bahi_eco/static/media/clothe.b92fe1b8b4f924edb859.png",
+    "static/media/logo.png": "/phito_bahi_eco/static/media/logo.9cd25092f55bbc412734.png",
+    "static/media/dwa5.png": "/phito_bahi_eco/static/media/dwa5.abcb53678d6fbc41c887.png",
+    "static/media/dwa3.png": "/phito_bahi_eco/static/media/dwa3.03492ec5ff2717c5e80e.png",
+    "static/media/prod1.png": "/phito_bahi_eco/static/media/prod1.03492ec5ff2717c5e80e.png",
+    "static/media/dwa2.png": "/phito_bahi_eco/static/media/dwa2.157f45e33ecc56755c23.png",
+    "static/media/sale.png": "/phito_bahi_eco/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/avatar.png": "/phito_bahi_eco/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "index.html": "/phito_bahi_eco/index.html",
+    "main.156991b1.css.map": "/phito_bahi_eco/static/css/main.156991b1.css.map",
+    "main.86538038.js.map": "/phito_bahi_eco/static/js/main.86538038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156991b1.css",
+    "static/js/main.86538038.js"
+  ]
+}
