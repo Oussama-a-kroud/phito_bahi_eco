@@ -6,7 +6,7 @@ import cart from '../../images/cart.png'
 const NavBarLogin = () => {
   return (
     <div>
-      <Navbar className="sticky-top" bg="secondary bg-gradient" variant="dark" expand="sm">
+      <Navbar className="sticky-top" bg="secondary bg-dark bg-gradient" variant="dark" expand="sm">
         <Container>
           <Navbar.Brand>
             <a href="/">
@@ -20,6 +20,7 @@ const NavBarLogin = () => {
               placeholder="search..."
               className="me-2 w-100 text-center "
               aria-label="Search"
+              
             />
             <Nav className="me-auto">
               <Nav.Link

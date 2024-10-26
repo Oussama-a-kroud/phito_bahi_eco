@@ -7,7 +7,7 @@ const DiscountSection = () => {
             <Row className="discount-backcolor my-3  mx-2 d-flex text-center align-items-center">
                 <Col sm="6">
                     <div className="discount-title">
-                    Jusqu'à 30% de promotion</div>
+                    9rib ndir pack d parfums b9aw 3la l9arss</div>
                 </Col>
                 <Col sm="6">
                     <img className="dicount-img" src={dwa4} alt="" />

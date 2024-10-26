@@ -1,16 +1,17 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import imagelogin from './../../images/loginn.jpg'
 
 const LoginPage = () => {
   return (
     <Container>
-      <Row className="py-5 d-flex justify-content-center ">
-        <Col sm="6">
-          <img
-            src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+      <Row className="py-3 mt-2 d-flex justify-content-center ">
+        <Col sm="5">
+          <img style={{ borderRadius: 20}}  src={imagelogin}
+
             alt="Trendy Pants and Shoes"
-            class="w-100 rounded-t-5 rounded-tr-lg-0 rounded-bl-lg-5"
+            class=" w-100 rounded-t-5 rounded-tr-lg-0 rounded-bl-lg-5"
           />
         </Col>
         <Col sm="6" className="d-flex flex-column ">

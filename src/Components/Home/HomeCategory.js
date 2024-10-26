@@ -14,7 +14,7 @@ const HomeCategory = () => {
     <Container>
       <SubTiltle title="category" btntitle="plus..." pathText="/allcategory"/>
       <Row className='my-2 d-flex justify-content-between'>
-                <CategoryCard title="adjuvent" img={clothe} background="#F4DBA4" />
+                {/* <CategoryCard title="adjuvent" img={clothe} background="#F4DBA4" /> */}
                 <CategoryCard title="category2 " img={dwa2} background="#F4DBA4" />
                 <CategoryCard title=" category3 " img={dwa3} background="#0034FF" />
                 <CategoryCard title=" category4 " img={dwa4} background="#F4DBA4" />

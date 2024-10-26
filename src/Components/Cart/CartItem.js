@@ -19,8 +19,7 @@ const CartItem = () => {
           <Row className="justify-content-center mt-2">
             <Col sm="12" className=" d-flex flex-row justify-content-start">
               <div className="d-inline pt-2 cat-title">
-                ce produit est jffj jnvnojfosdjood
-              
+                riha b 50 dh 
               </div>
               <div className="d-inline pt-2 cat-rate me-2">4.5</div>
             </Col>
@@ -28,7 +27,7 @@ const CartItem = () => {
           <Row>
             <Col sm="12" className="mt-1">
               <div className="cat-text d-inline">Marque :</div>
-              <div className="barnd-text d-inline mx-1">dwa </div>
+              <div className="barnd-text d-inline mx-1">akroudSauvage </div>
             </Col>
           </Row>
          
@@ -43,7 +42,7 @@ const CartItem = () => {
                   style={{ width: "40px", height: "25px" }}
                 />
               </div>
-              <div className="d-inline pt-2 barnd-text"> 500 mad</div>
+              <div className="d-inline pt-2 barnd-text"> 50 mad</div>
             </Col>
           </Row>
         </div>

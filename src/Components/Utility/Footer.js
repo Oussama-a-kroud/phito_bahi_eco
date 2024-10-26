@@ -6,7 +6,7 @@ import twitter from "../../images/twitter.png";
 import phone from "../../images/phone.png";
 const Footer = () => {
     return (
-        <div className="footer-background footer  bg-secondary bg-gradient " style={{ maxHeight: "50px"}}>
+        <div className="footer-background footer  bg-dark bg-gradient " style={{ maxHeight: "50px"}}>
             <Container className="">
                 <Row className="d-flex justify-content-between align-items-center ">
                     <Col sm="6" className="d-flex align-items-center">

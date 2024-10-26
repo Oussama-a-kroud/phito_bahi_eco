@@ -5,19 +5,19 @@ const ProductText = () => {
     return (
         <div>
       <Row className="mt-2">
-        <div className="cat-text">hello :</div>
+        <div className="cat-text">riha sauvage : </div>
       </Row>
       <Row>
         <Col md="8">
           <div className="cat-title d-inline">
-           ce produit est skjjciscqcpcdncosdjocnsdkncsn<div className="cat-rate d-inline mx-3">4.5</div>
+           had riha bla manhtaj ndwi 3liha, hiya dawya 3la rasha ,dakchi qualité<div className="cat-rate d-inline mx-3">4.5</div>
           </div>
         </Col>
       </Row>
       <Row>
         <Col md="8" className="mt-4">
           <div className="cat-text d-inline">Marque :</div>
-          <div className="barnd-text d-inline mx-1">Marque 1 </div>
+          <div className="barnd-text d-inline mx-1"> Akroud Sauvage</div>
         </Col>
       </Row>
       {/* <Row>
@@ -40,21 +40,13 @@ const ProductText = () => {
       <Row className="mt-2">
         <Col md="10">
           <div className="product-description d-inline">
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
-          loremloremloremloremloremloremloremloremloremloremlorem
+          riha dyal l3bar fiha lankol oro7
           </div>
         </Col>
       </Row>
       <Row className="mt-4">
         <Col md="12">
-          <div className="product-price d-inline px-3 py-3 border">34000 mad</div>
+          <div className="product-price d-inline px-3 py-3 border">50 mad</div>
           <div className="product-cart-add px-3 py-3 d-inline mx-3">ajouter aux panier </div>
         </Col>
       </Row>
